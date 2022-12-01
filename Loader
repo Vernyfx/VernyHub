@@ -73,7 +73,6 @@ local Button = Tab:CreateButton({
 			elseif game.PlaceId == 11445923563 then
 			wait(1)
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/Vernyfx/Onefruit/main/jajaxd45",true))();
-			end
 
 		end
 		wait(1)
